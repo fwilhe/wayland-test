@@ -1,2 +1,8 @@
-weston
 firefox-esr
+libgl1-mesa-dri
+openssl
+seatd
+sudo
+sway
+wayland-utils
+weston
